@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Nguyễn Ngọc Hải
 - 👀 Facebook: https://www.facebook.com/s2bluemoon01
 - 📞 Phone: 0869215201
+- 📨 Mail: s2ngochai01@gmail.com
 - 💞️ Miệng luôn mỉm cười, ლay ლắn tự nhiên tới
 - 💙 As long as you choose hope,
       Anything's possible 
