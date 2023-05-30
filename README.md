@@ -3,8 +3,8 @@
 - 👀 Facebook: https://www.facebook.com/s2bluemoon01
 - 📞 Phone: 0869215201
 - 💞️ Miệng luôn mỉm cười, ლay ლắn tự nhiên tới
-- As long as you choose hope,
-   Anything's possible 💙
+- 💙 As long as you choose hope,
+      Anything's possible 
 
 
 ## 🌐Socials
