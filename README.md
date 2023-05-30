@@ -4,7 +4,7 @@
 - 📞 Phone: 0869215201
 - 💞️ Miệng luôn mỉm cười, ლay ლắn tự nhiên tới
 - As long as you choose hope,
-   Anything's possible🧡💙
+   Anything's possible 💙
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/s2bluemoon01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s2bluemoon01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@s2bluemoon01) 
