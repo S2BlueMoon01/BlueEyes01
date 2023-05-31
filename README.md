@@ -7,7 +7,7 @@
 - 💙 As long as you choose hope,
       Anything's possible 
 
-<style>
+[!CSS3](<style>
 .card {
   width: 190px;
   height: 254px;
@@ -60,7 +60,7 @@
 } */
 
 
-</style>
+</style>)
 <div class="card">
     <h2>CARD</h2>
 </div>
