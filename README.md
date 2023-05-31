@@ -6,7 +6,7 @@
 - 💞️ Miệng luôn mỉm cười, ლay ლắn tự nhiên tới
 - 💙 As long as you choose hope,
       Anything's possible 
-<div class="card">
+[]<div class="card">
       <style>
 .card {
   width: 190px;
