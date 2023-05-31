@@ -6,8 +6,8 @@
 - 💞️ Miệng luôn mỉm cười, ლay ლắn tự nhiên tới
 - 💙 As long as you choose hope,
       Anything's possible 
-
-[!CSS3](<style>
+<div class="card">
+      <style>
 .card {
   width: 190px;
   height: 254px;
@@ -60,8 +60,7 @@
 } */
 
 
-</style>)
-<div class="card">
+</style>
     <h2>CARD</h2>
 </div>
 
