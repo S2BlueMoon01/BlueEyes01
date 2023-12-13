@@ -1,7 +1,7 @@
 # 💫About Me :
 
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Hải</h1>
-<h3 align="center">Sometimes you will never know the true value of a moment until it becomes a memory Smiling 😊</h3>
+<h3 align="center">Sometimes you will never know the true value of a moment until it becomes a memory </h3>
 - 👀 Facebook: https://www.facebook.com/s2bluemoon01 </br>
 - 📞 Phone: 0869215201 </br>
 - 📨 Mail: s2ngochai01@gmail.com</br>
