@@ -1,7 +1,7 @@
 # 💫About Me :
 
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Hải</h1>
-<h3 align="center"> <q> Hi, I'm a web developer who can code all day without getting tired.</q> </h3>
+<h3 align="center"> <q>Hi, I'm a web developer who can code all day without getting tired.</q> </h3>
 - 👀 Facebook: https://www.facebook.com/s2bluemoon01 </br>
 - 📞 Phone: 0869215201 </br>
 - 📨 Mail: s2ngochai01@gmail.com</br>
